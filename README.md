@@ -16,42 +16,76 @@ This is a stationary website project that allows users to browse and purchase va
 
 
 stationary-website/
+
 │
+
 ├── css   
+
  /
 │   ├── style.css
+
 │   └── // Additional CSS files
+
 │
 ├── js/
+
 │   ├── script.js
+
 │   └── // Additional JavaScript files
+
 │
 ├── img/
+
 │   └── // Image files
+
 │
 ├── includes/
+
 │   ├── header.php
+
 │   ├── footer.php
+
 │   ├── // Additional PHP includes
+
 │   └── config.php
+
 │
 ├── pages/
+
 │   ├── home.php
+
 │   ├── login.php
+
 │   ├── register.php
+
 │   ├── shop.php
+
 │   ├── cart.php
+
 │   ├── checkout.php
+
 │   └── // Additional PHP pages
+
 │
+
 └── database.sql
 
 
 ## Contributing
 
+
 Thameem
+
 Manikandan
+
 Nithish Kumar
+
 Gunasekar
+
+## screenshort
+![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/2b8d7b5f-d43c-4495-ba58-cd0a75033349)
+![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/9bbf886f-18f9-49e0-918f-8a22073348e7)
+
+
 
 
