@@ -3,6 +3,8 @@
 
 This is a stationary website project that allows users to browse and purchase various stationary items. It is built using HTML, CSS, JavaScript, PHP, and MySQL.
 
+
+
  
 ## Setup
 
@@ -36,6 +38,9 @@ The project integrates with various Azure services for enhanced functionality:
 ## Contributing
 
 
+
+
+
 Thameem
 
 Manikandan
@@ -61,6 +66,8 @@ Gunasekar
 ![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/6acb87b0-57f8-490e-92bf-07087d5fc017)
 ![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/0e768104-fa1b-4f1a-bc42-f465af942872)
 ![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/d75220e7-b642-4775-a798-5664d0d3ce6c)
+
+
 
 ![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/28865849-dc79-4793-9af7-1b1759839918)
 ![image](https://github.com/THAMEEMthameem/Azure_stationary_website/assets/156052677/cd765b39-d316-4cb7-a9e7-d6f2442c7efe)
